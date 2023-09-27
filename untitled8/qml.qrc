@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DashBoard.qml</file>
+        <file>Speed.qml</file>
+        <file>SpeedNeedle.qml</file>
+        <file>Background.png</file>
+        <file>Fuel.qml</file>
+        <file>FuelNeedle.qml</file>
+        <file>Turn.qml</file>
+        <file>Gear.qml</file>
+        <file>Time.qml</file>
+    </qresource>
+</RCC>
